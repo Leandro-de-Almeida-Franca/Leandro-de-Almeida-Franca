@@ -1,5 +1,5 @@
-### Olá!! Eu sou o Leandro França 🖖
-
+## Olá!! Eu sou o Leandro França 🖖
+---
 ### 📚 Cursando Análise e desenvolvimento de sistemas
 
 ### 🌎 Inglês Intermediário 
