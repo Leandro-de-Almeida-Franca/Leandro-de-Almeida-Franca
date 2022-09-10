@@ -1,12 +1,12 @@
-#### Olá!! Eu sou o Leandro França 🖖
+### Olá!! Eu sou o Leandro França 🖖
 
-#### 📚 Cursando Análise e desenvolvimento de sistemas
+### 📚 Cursando Análise e desenvolvimento de sistemas
 
-#### 🌎 Inglês Intermediário 
+### 🌎 Inglês Intermediário 
 
-#### 🎵 Gosto de ler, tocar violão e jogar com os amigos
+### 🎵 Gosto de ler, tocar violão e jogar com os amigos
 
-#### 📧Email:leandro.alm2003@gmail.com
+### 📧Email:leandro.alm2003@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/http_laf/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561993250156/)
