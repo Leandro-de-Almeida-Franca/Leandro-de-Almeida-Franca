@@ -26,7 +26,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seuusuario)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:leandro.alm2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/leandro-fran%C3%A7a-350946249/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/leandro-fran%C3%A7a-350946249](https://www.linkedin.com/in/leandro-fran%C3%A7a-350946249/))
 
 ---
 
