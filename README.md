@@ -18,9 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kalilinux.svg" width="40" alt="Kali Linux"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wireshark.svg" width="40" alt="Wireshark"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cisco.svg" width="40" alt="Cisco"/>
 </p>
 
 ---
