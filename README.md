@@ -1,24 +1,52 @@
-## Olá! Eu sou o Leandro França 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</div>
+<h1 align="center">Olá! 👋 Eu sou o Leandro França</h1>
 
-##
+<p align="center">
+  <b>🎓 Estudante de Análise e Desenvolvimento de Sistemas (5/5)</b><br>
+  <b>💻 Focado em Desenvolvimento Web e Shell Script</b>
+</p>
 
-<div> 
-  <a href="https://www.instagram.com/http_laf/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:leandro.alm2003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/leandro-fran%C3%A7a-350946249/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  
-</div>
+---
+
+### 🚀 Tecnologias que estou estudando:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+</p>
+
+---
+
+### 📫 Onde me encontrar:
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seuusuario)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
+
+---
+
+### 📂 Repositórios em destaque:
+
+- 🔧 **[Shell-Script-Estudos-Curso](https://github.com/Leandro-de-Almeida-Franca/Shell-Script-Estudos-Curso)**  
+  Curso de Shell Script baseado no conteúdo do Ricardo Prudenciato
+
+- 🌐 **[Leandro-de-Almeida-Franca](https://github.com/Leandro-de-Almeida-Franca/Leandro-de-Almeida-Franca)**  
+  Este perfil com seu README interativo!
+
+---
+
+### 💡 Um pouco sobre mim:
+
+- 📍 Brasileiro, apaixonado por tecnologia
+- 🧠 Aprendendo todos os dias
+- 💬 Gosto de trocar ideias, então me chama no LinkedIn!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leandro-de-Almeida-Franca&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-de-Almeida-Franca&layout=compact&theme=radical" width="300"/>
+</p>
