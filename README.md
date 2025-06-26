@@ -36,16 +36,6 @@
 
 ---
 
-### 📂 Repositórios em destaque:
-
-- 🔧 **[Shell-Script-Estudos-Curso](https://github.com/Leandro-de-Almeida-Franca/Shell-Script-Estudos-Curso)**  
-  Curso de Shell Script baseado no conteúdo do Ricardo Prudenciato
-
-- 🌐 **[Python](https://github.com/Leandro-de-Almeida-Franca/Python)**  
-  Este perfil com seu README interativo!
-
-
----
 
 ### 💡 Um pouco sobre mim:
 
